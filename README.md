@@ -1,5 +1,5 @@
 # node-docker-ssh
-Minimal Docker image with:
+Minimal ~147 MB Docker image with:
 
  - node:lts-alpine base image (auto build on update via docker hub) 
  - docker client tools 
